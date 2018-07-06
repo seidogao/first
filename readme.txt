@@ -10,3 +10,5 @@ modify for dev
 modify for pc2
 
 git clone -o remotegit git@github.com:seidogao/first.git
+git push remotegit master
+other: git pull remotegit master
